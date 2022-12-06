@@ -11,3 +11,11 @@ for sample in samples:
   sample['transcribedText'] = result["text"]
   sample['runtime'] = (time.time() - start_time)
   print(sample)
+
+
+# Deve calcular o tamanho (quantidade de palavras)
+# e comparar com o tamanho da amostra
+
+# Deve calcular quantidade de erros para cada amostra
+
+# Deve calcular porcentagem de erros para cada amostra
