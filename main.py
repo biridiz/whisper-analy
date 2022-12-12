@@ -19,10 +19,11 @@ def calculate_text_lens (sample):
 def find_wrong_words (sample):
   transTextList = sample['transcribed-text'].split()
   textList = sample['text'].split()
-  sample['wrong-words'] = [x for x in transTextList + textList if x not in transTextList or x not in textList]
+  sample['wrong-words'] = [x for x in transTextList if x not in textList]
 
 def calculate_wrong_words_percent (sample):
-  sample['error-percentage'] = (sample['text-size'] / 100) * len(sample['wrong-words'])
+  sample['number-wrong-words'] = len(sample['wrong-words'])
+  sample['error-percentage'] = (sample['number-wrong-words'] * 100) / (sample['text-size'])
 
 for sample in samples:
   transcribe(sample, model)
@@ -30,4 +31,4 @@ for sample in samples:
   find_wrong_words(sample)
   calculate_wrong_words_percent(sample)
 
-print(json.dumps(samples, indent=2, sort_keys=False))
+print(json.dumps(samples, ensure_ascii=False, indent=2, sort_keys=False))
