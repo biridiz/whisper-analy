@@ -15,7 +15,7 @@ def get():
     },
     {
       'region': 'Oeste - Santa Catarina',
-      'text': 'Claro, ano que vem fizemo alguma coisinha, vamo ta com a casa nova também. Ai fizemo, uns petisco',
+      'text': 'Claro, ano que vem fizemo alguma coisinha, vamo ta com a casa nova também. Ai fizemo, uns petisco, beleza?',
       'file-name': './audio/carlos-sc.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -28,7 +28,7 @@ def get():
     },
     {
       'region': 'Sul - Bahia',
-      'text': ' Demorou, mano. Veja aí, veja aí. Vem jogar sim, mano. Não está difícil, ta ligado? É a gurizada da casa, que está jogando, mano. Cinquentão, pra ganhar... pra ganhar... milzão, né? Então, o investimento, né? Valido',
+      'text': ' Demorou, mano. Veja aí, veja aí. Vem jogar sim, mano. Não está difícil, ta ligado? É a gurizada da casa, que está jogando, mano. Cinquentão, pra ganhar... pra ganhar... milzão, né? Então, o investimento, né? Válido.',
       'file-name': './audio/gabriel-ba.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -54,7 +54,7 @@ def get():
     },
     {
       'region': 'Interior - São Paulo',
-      'text': 'Então foi isso né, o Leo botou lá tipo, eu vou botar isso aqui, isso aqui, isso aqui, o que precisa depois de gente compra, e o caslu levou um whisky a mais pra garantir né e daí o resto a gente teve que comprar mesmo, eu levei uns três kilo de carne, o mineiro levou um porco, o caslu mandou lá um, uma medalhão lá, e foi nessa, entendeu? Mas suave biridi, tudo nosso pai',
+      'text': 'Então foi isso né, o Leo botou lá tipo, eu vou botar isso aqui, isso aqui, isso aqui, o que precisa depois de gente compra, e o caslu levou um whisky a mais pra garantir né e daí o resto a gente teve que comprar mesmo, eu levei uns 3kg de carne, o mineiro levou um porco, o caslu mandou lá um, uma medalhão lá, e foi nessa, entendeu? Mas suave biridi, tudo nosso pai',
       'file-name': './audio/leonardo-sp.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -80,7 +80,7 @@ def get():
     },
     {
       'region': 'Rio de Janeiro',
-      'text': 'A o Léo Brandão, duas e cinquenta da tarde né meu amigo e tu vai ficar mandando essas mensagens, pelo amor de Deus, mano. Geral boladão no trabalho, tu tendo que... pô, tem que ficar lendo essas merda que tu escreve',
+      'text': 'Ah, ô Léo Brandão, 2h50 da tarde, né, meu amigo? Tu vai ficar mandando essas mensagens? Pelo amor de Deus, mano. Geral boladão no trabalho, tu tendo que...... pô, tem que ficar lendo essas merda que tu escreve?',
       'file-name': './audio/matheus-rj.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -93,7 +93,7 @@ def get():
     },
     {
       'region': 'Santos - São Paulo',
-      'text': 'E aí mano vai ter aquele bondezinho centro Efapi. Dos atleta. Quem vai fazer o auxílio transporte atleta',
+      'text': 'E aí mano vai ter aquele bondezinho Centro Efapi. Dos atleta. Quem vai fazer o auxílio transporte atleta?',
       'file-name': './audio/maycon-sa.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -106,7 +106,7 @@ def get():
     },
     {
       'region': 'Minas Gerais',
-      'text': 'Fala biridi, bom dia. Uai, mano. O que que que eu falo? Eu juro que saca ali. Mas aqui é o que eu falo que é daí.',
+      'text': 'Fala biridi, bom dia. Uai, mano. O que cê qué que eu falo? Eu juro que saca ali. Mas aqui é o que eu falo que é daí.',
       'file-name': './audio/paulo-ms.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -119,7 +119,7 @@ def get():
     },
     {
       'region': 'Santa Catarina',
-      'text': '"Ma vai com o Conte pia, já não me convidou no último dia que foram, então convide ele né mano agora ta me convidando por que ele falou que não tava afim de ir',
+      'text': '"Ma vai com o Conte pia, já não me convidou no último dia que foram, então convide ele né mano agora ta me convidando por que ele falou que não tava afim de ir.',
       'file-name': './audio/vitor-sc.ogg',
       'transcribed-text': '',
       'runtime': 0,
