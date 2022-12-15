@@ -54,7 +54,7 @@ def get():
     },
     {
       'region': 'Interior - São Paulo',
-      'text': 'Então foi isso né, o Leo botou lá tipo, eu vou botar isso aqui, isso aqui, isso aqui, o que precisa depois de gente compra, e o caslu levou um whisky a mais pra garantir né e daí o resto a gente teve que comprar mesmo, eu levei uns 3kg de carne, o mineiro levou um porco, o caslu mandou lá um, uma medalhão lá, e foi nessa, entendeu? Mas suave biridi, tudo nosso pai',
+      'text': 'Então foi isso né, o Leo botou lá tipo, eu vou botar isso aqui, isso aqui, isso aqui, o que precisa depois a gente compra, e o caslu levou um whisky a mais pra garantir né e daí o resto a gente teve que comprar mesmo, eu levei uns 3kg de carne, o mineiro levou um porco, o caslu mandou lá um, uma medalhão lá, e foi nessa, entendeu? Mas suave biridi, tudo nosso pai',
       'file-name': './audio/leonardo-sp.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -67,7 +67,7 @@ def get():
     },
     {
       'region': 'Capital - São Paulo',
-      'text': ' Mano, bagulho é que eu cheguei em casa, ai o Thiago me deu um salve e nós piou, mas não piou no after errado, tá ligado? Tipo, tinha dois after eu nem sabia, ele tinha, ele tava com o nome na lista em um e eu tava com o nome na lista em outro',
+      'text': 'Mano, bagulho é que eu cheguei em casa, ai o Thiago me deu um salve e nós piou, mas nós piou no after errado, tá ligado? Tipo, tinha dois after eu nem sabia, ele tinha, ele tava com o nome na lista em um e eu tava com o nome na lista em outro',
       'file-name': './audio/marcos-sp.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -106,7 +106,7 @@ def get():
     },
     {
       'region': 'Minas Gerais',
-      'text': 'Fala biridi, bom dia. Uai, mano. O que cê qué que eu falo? Eu juro que saca ali. Mas aqui é o que eu falo que é daí.',
+      'text': 'Fala biridi, bom dia. Uai, mano. O que cê qué que eu falo? Meu Deus que ressaca. Mas que você quer que eu falo o que daí?',
       'file-name': './audio/paulo-ms.ogg',
       'transcribed-text': '',
       'runtime': 0,
@@ -119,7 +119,7 @@ def get():
     },
     {
       'region': 'Santa Catarina',
-      'text': '"Ma vai com o Conte pia, já não me convidou no último dia que foram, então convide ele né mano agora ta me convidando por que ele falou que não tava afim de ir.',
+      'text': 'Ma vai com o Conte pia, já não me convidou no último dia que foram, então convide ele né mano. Agora ta me convidando por que ele falou que não tava afim de ir?',
       'file-name': './audio/vitor-sc.ogg',
       'transcribed-text': '',
       'runtime': 0,
